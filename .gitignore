@@ -1,9 +1,10 @@
 # Ignore API config files
 config.properties
 .env
+.config.json
 
 # Ignore compiled Java classes
-API_REQUEST.class
+*.class
 
 # Ignore IDE files
 *.iml
