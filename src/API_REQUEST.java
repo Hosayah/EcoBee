@@ -7,8 +7,8 @@ import java.net.http.HttpResponse;
 import org.json.JSONArray;
 import org.json.JSONObject;
 public class API_REQUEST {
-    private static final String API_KEY = "95678114-4cb1-4364-8091-bfea32d8f618";
-    private static final String API_URL = "https://www.dictionaryapi.com/api/v3/references/sd3/json/";
+    private static final String API_KEY = ConfigLoader.getProperty("api.key");
+    private static final String API_URL = ConfigLoader.getProperty("api.url");
 
     public static String getWordDefinition(String word) throws IOException, InterruptedException {
         HttpClient client = HttpClient.newHttpClient();

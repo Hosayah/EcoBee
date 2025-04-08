@@ -1,12 +1,12 @@
 {
-  "highScore": 480,
+  "highScore": 210,
   "currentScore": 0,
   "volume": 1.0,
   "difficulty": 2,
   "timeLeft": 15,
   "playing": false,
   "isAccess": true,
-  "previousWord": "geotropism",
+  "previousWord": "conservation",
   "definition": "an organism (as a bacterium) of microscopic or less than microscopic size",
   "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/microo01.mp3",
   "currentUser": "Cedrick",
@@ -27,7 +27,7 @@
       "username": "Cedrick",
       "email": "user1@example.com",
       "password": "cedrick21/",
-      "highScore": 100
+      "highScore": 210
     },
     {
       "username": "Paula",
