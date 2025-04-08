@@ -711,6 +711,7 @@ public class App extends JFrame {
                     }
             }
         });
+        
         pauseButton.setPreferredSize(new Dimension(150, 40));
         controlPanel.add(pauseButton);
         gbc.gridx = 0;

@@ -149,7 +149,7 @@ public class ConfigManager {
                 return true; // Password change successful
             }
         }
-        return false; // Email not found
+        return false; 
     }
     
     

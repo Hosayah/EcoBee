@@ -26,7 +26,5 @@ public class Config {
     public String definition = "";
     public String audioUrl = "";
     public String currentUser = "";
-
-    // Changed users from Map<String, User> to List<User>
     public List<User> users = new ArrayList<>();
 }
