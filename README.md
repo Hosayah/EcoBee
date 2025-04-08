@@ -15,7 +15,8 @@ Students will learn about environmental concepts and terminology in an exciting 
 •	Spelling Game – A spelling bee game will be included in the app, where users must hear a word, read its meaning, and guess its spelling in a set amount of time. <br>
 •	Game Difficulty - There will be three difficulty levels, each of which increases the difficulty of the words generated. Higher difficulty equals higher scores. <br>
 •	Timer - A timer starts at 15 seconds; the game ends when the timer runs out. During the game, if the countdown is greater than 6 seconds, it is decreased to 3 seconds for every 5 correct spellings. <br>
-•	User high score - The game will track progress and high scores, instilling a sense of accomplishment and long-term engagement. At the top of the User Panel, the user with the highest score will be shown. <br>
+•	User high score - The game will track progress and high scores, instilling a sense of accomplishment and long-term engagement. <br>
+•	Leaderboard - The game have a leaderboard, ranking players based on their high scores. <br>
 •	Pause - A pause button is included to allow the players to take a break when needed. <br>
 •	Confirmation Dialog - For actions that require confirmation, such closing the software or playing the game again after losing, a dialog box will appear. This reduces unwanted or unintentional actions. <br>
 
