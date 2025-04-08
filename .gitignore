@@ -1,0 +1,14 @@
+# Ignore API config files
+config.properties
+.env
+
+# Ignore compiled Java classes
+API_REQUEST.class
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+
