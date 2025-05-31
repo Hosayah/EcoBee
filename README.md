@@ -20,3 +20,19 @@ Students will learn about environmental concepts and terminology in an exciting 
 •	Pause - A pause button is included to allow the players to take a break when needed. <br>
 •	Confirmation Dialog - For actions that require confirmation, such closing the software or playing the game again after losing, a dialog box will appear. This reduces unwanted or unintentional actions. <br>
 
+## Installation
+1. Clone the repo: `https://github.com/Hosayah/EcoBee.git`  
+2. Create ‘config.properties’ inside the root folder
+3. Inside the config.properties file, add the following:
+• api.url=https://www.dictionaryapi.com/api/v3/references/sd3/json/
+• api.key=YOUR_API_KEY
+4. Run `App.java` inside the src directory
+
+## Technologies Used
+- Java
+- Java Swing
+- RestAPI
+
+## Contact
+Email: catabayjosiah19 @gmail.com
+
