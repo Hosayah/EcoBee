@@ -24,7 +24,7 @@ Students will learn about environmental concepts and terminology in an exciting 
 1. Clone the repo: `https://github.com/Hosayah/EcoBee.git`  
 2. Create ‘config.properties’ inside the root folder
 3. Inside the config.properties file, add the following:
-• api.url=https://www.dictionaryapi.com/api/v3/references/sd3/json/
+• api.url=https://www.dictionaryapi.com/api/v3/references/sd3/json/ <br>
 • api.key=YOUR_API_KEY
 4. Run `App.java` inside the src directory
 
